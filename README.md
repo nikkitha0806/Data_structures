@@ -57,4 +57,8 @@ LEETCODE DATASTRUCTURES LIST
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikkitha0806/Data_structures/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/nikkitha0806/Data_structures/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
