@@ -67,6 +67,7 @@ LEETCODE DATASTRUCTURES LIST
 ## Database
 |  |
 | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/nikkitha0806/Data_structures/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1415-students-and-examinations](https://github.com/nikkitha0806/Data_structures/tree/master/1415-students-and-examinations) |
 ## Binary Search
 |  |
