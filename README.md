@@ -11,6 +11,7 @@ LEETCODE DATASTRUCTURES LIST
 | [0217-contains-duplicate](https://github.com/nikkitha0806/Data_structures/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nikkitha0806/Data_structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikkitha0806/Data_structures/tree/master/0349-intersection-of-two-arrays) |
+| [1603-running-sum-of-1d-array](https://github.com/nikkitha0806/Data_structures/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/nikkitha0806/Data_structures/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -82,4 +83,8 @@ LEETCODE DATASTRUCTURES LIST
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/nikkitha0806/Data_structures/tree/master/1635-number-of-good-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/nikkitha0806/Data_structures/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
