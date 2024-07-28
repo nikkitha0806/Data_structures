@@ -11,6 +11,7 @@ LEETCODE DATASTRUCTURES LIST
 | [0217-contains-duplicate](https://github.com/nikkitha0806/Data_structures/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nikkitha0806/Data_structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikkitha0806/Data_structures/tree/master/0349-intersection-of-two-arrays) |
+| [1635-number-of-good-pairs](https://github.com/nikkitha0806/Data_structures/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ LEETCODE DATASTRUCTURES LIST
 | [0242-valid-anagram](https://github.com/nikkitha0806/Data_structures/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nikkitha0806/Data_structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikkitha0806/Data_structures/tree/master/0349-intersection-of-two-arrays) |
+| [1635-number-of-good-pairs](https://github.com/nikkitha0806/Data_structures/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ LEETCODE DATASTRUCTURES LIST
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikkitha0806/Data_structures/tree/master/0347-top-k-frequent-elements) |
+| [1635-number-of-good-pairs](https://github.com/nikkitha0806/Data_structures/tree/master/1635-number-of-good-pairs) |
 ## Quickselect
 |  |
 | ------- |
@@ -75,4 +78,8 @@ LEETCODE DATASTRUCTURES LIST
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nikkitha0806/Data_structures/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/nikkitha0806/Data_structures/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
