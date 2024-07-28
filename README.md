@@ -13,6 +13,7 @@ LEETCODE DATASTRUCTURES LIST
 | [0349-intersection-of-two-arrays](https://github.com/nikkitha0806/Data_structures/tree/master/0349-intersection-of-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/nikkitha0806/Data_structures/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/nikkitha0806/Data_structures/tree/master/1635-number-of-good-pairs) |
+| [2502-sort-the-people](https://github.com/nikkitha0806/Data_structures/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ LEETCODE DATASTRUCTURES LIST
 | [0347-top-k-frequent-elements](https://github.com/nikkitha0806/Data_structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikkitha0806/Data_structures/tree/master/0349-intersection-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/nikkitha0806/Data_structures/tree/master/1635-number-of-good-pairs) |
+| [2502-sort-the-people](https://github.com/nikkitha0806/Data_structures/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +33,7 @@ LEETCODE DATASTRUCTURES LIST
 | [0242-valid-anagram](https://github.com/nikkitha0806/Data_structures/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nikkitha0806/Data_structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikkitha0806/Data_structures/tree/master/0349-intersection-of-two-arrays) |
+| [2502-sort-the-people](https://github.com/nikkitha0806/Data_structures/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +46,7 @@ LEETCODE DATASTRUCTURES LIST
 | [0049-group-anagrams](https://github.com/nikkitha0806/Data_structures/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nikkitha0806/Data_structures/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nikkitha0806/Data_structures/tree/master/0242-valid-anagram) |
+| [2502-sort-the-people](https://github.com/nikkitha0806/Data_structures/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
